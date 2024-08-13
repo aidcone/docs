@@ -55,9 +55,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social.png',
       navbar: {
-        title: 'AidCone',
+        title: '',
         logo: {
           alt: 'AidCone Logo',
           src: 'img/logo.svg',
