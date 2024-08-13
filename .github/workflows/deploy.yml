@@ -28,5 +28,5 @@ jobs:
         uses: caprover/deploy-from-github@v1.0.1
         with:
           server: 'c.rbnu.nl'
-          app: 'aidcone'
+          app: 'aidcone-docs'
           token: '${{ secrets.APP_TOKEN }}'
