@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: Voor een les met vrije inschrijving inschrijven
 ---
 
 # Inschrijven voor een les

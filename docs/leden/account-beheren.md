@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: Persoons- en adresgegevens, e-mailadres en wachtwoord wijzigen
 ---
 
 # Account beheren

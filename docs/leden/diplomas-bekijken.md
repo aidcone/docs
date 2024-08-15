@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: Informatie over uw diploma's en certificaten bekijken
 ---
 
 # Diploma's bekijken

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: Voor u relevante activeiten op een rijtje bekijken
 ---
 
 # Kalender

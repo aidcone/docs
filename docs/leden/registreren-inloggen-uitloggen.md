@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: De applicatie betreden en verlaten
 ---
 
 # Registreren, inloggen en uitloggen

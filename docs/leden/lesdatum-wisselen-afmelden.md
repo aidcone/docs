@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: Een andere lesdatum kiezen of volledig afmelden
 ---
 
 # Lesdatum wisselen of afmelden
