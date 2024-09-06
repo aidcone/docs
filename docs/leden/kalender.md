@@ -22,3 +22,4 @@ Deze lijst toont activiteiten per kalenderjaar en niet per seizoen van uw vereni
 :::
 
 ![Kalender jaar](img/kalender-jaar.png)
+
