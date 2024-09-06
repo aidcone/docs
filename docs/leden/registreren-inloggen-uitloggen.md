@@ -5,7 +5,7 @@ description: De applicatie betreden en verlaten
 
 # Registreren, inloggen en uitloggen
 
-U betreedt de applicatie via **vereniging.aidcone.nl**, bijvoorbeeld roosendaal.aidcone.nl. Hier vindt u het startscherm:
+U betreedt de applicatie via ***vereniging*.aidcone.nl**, bijvoorbeeld roosendaal.aidcone.nl. Hier vindt u het startscherm:
 
 ![Startscherm](img/welkom.png)
 
